@@ -46,7 +46,7 @@ public class MainView extends VerticalLayout {
                     Resultado.setValue("No encaja con ningún rango de IPs");
                     f.open();
                 }
-                
+
             });
 
 
